@@ -1,12 +1,1 @@
 # luicalingle.github.io
-‹!doctype html>
-‹html lang="zh=CN">
-<head ›
-‹meta charset="UTF-8">
-<title>我的个人主页欠费版</title〉
-‹link rel="stylesheet" href="css/style.css">
-</head›
-‹body>
-《header>导航</header》
-‹main›
-《section>关于我</section>《section>我的项目</section>《section>联系方式</section〉
